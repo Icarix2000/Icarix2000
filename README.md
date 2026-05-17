@@ -21,7 +21,7 @@ Basically, if I can take it apart, understand it, and put it back together, I'm 
 - Hardware & device repair (PC, Mac, phones, tablets)
 - Networking fundamentals
 
-- At the end of the day, I'm just a tiner who loves to learn, build and fix things.
+- At the end of the day, I'm just a tinker who loves to learn, build and fix things.
 
 
 
